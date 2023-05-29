@@ -1,0 +1,28 @@
+body { /*background color*/
+    background: linear-gradient(35deg, #fcf6f6, #ebbbbb);
+}
+
+#h1 {
+    color:rgb(184, 57, 162);
+    margin-bottom: 50px; /*space btw h1 + list*/
+    font-family: 'Signika', sans-serif;
+}
+
+li {
+    margin-bottom: 15px; /*add space between items*/
+    font-family: "Gloria_Hallelujah variant0", Tofu; /*may not work well ********/
+    font-size: 20px;
+}
+
+li button {
+    font-size: 13px; /*button font size*/
+    font-family: "Concert_One variant0", Tofu; /*may not work well ********/
+    margin-left: 8px; /*space between item + button*/
+    color: rgb(231, 111, 111);
+}
+
+#itemInput { /*for the first div*/
+    font-size: 20px;
+    margin-top: 100px;
+}
+
